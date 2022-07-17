@@ -1,0 +1,5 @@
+Adam jest szefem.
+Czarek jest szefem.
+Leon jest szefem.
+
+
